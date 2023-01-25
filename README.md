@@ -1,4 +1,4 @@
-### Hola amiga, I'm Ashwin 👋
+### Hola amigo, I'm Ashwin 👋
 # 💫 About Me:
 🔭 I’m currently learning more about the MERN stack and Angular.<br>🌱 I'm currently focusing on expanding my skills in web development.<br>👯 I'm open to collaborate on any web development projects.<br>🤔 I'm always looking for ways to improve and learn more.<br>💬 Ask me about the MERN stack or web development in general.<br>📫 You can reach me through my social links below.<br>⚡ Fun fact: I'm a hardcore gamer in my free time.
 
