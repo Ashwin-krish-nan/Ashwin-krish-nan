@@ -5,7 +5,7 @@
 <h2 align="center">💫 About Me</h2>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-🔭 I’m currently learning more about the MERN stack and Angular.<br>🌱 I'm currently focusing on expanding my skills in web development.<br>👯 I'm open to collaborate on any web development projects.<br>🤔 I'm always looking for ways to improve and learn more.<br>💬 Ask me about the MERN stack or web development in general.<br>📫 You can reach me through my social links below.<br>⚡ Fun fact: I'm a hardcore gamer in my free time.
+🔭 I’m currently learning more about the MERN stack and Angular.<br>🌱 I'm currently focusing on expanding my skills in web development.<br>👯 I'm open to collaborate on any web development projects.<br>🤔 I'm always looking for ways to improve and learn more.<br>💬 Ask me about the MERN stack or web development in general.<br>📫 You can reach me through my social links below.<br>💻 Know more about my <a href="https://ashwin-krish-nan.github.io/Ashwin-krish_nan.github.io/"> Portfolio </a>.<br>⚡ Fun fact: I'm a hardcore gamer in my free time.
 
 
 ## 🌐 Socials:
