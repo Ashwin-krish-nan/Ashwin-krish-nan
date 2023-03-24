@@ -21,11 +21,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Memes
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8c5RjFxI7qasbKAKr_WFE6q-xs32b8c1Ce-NZLivFrZKlbMMIaKt0KH8ZWgRQLQbPXo&usqp=CAU" width="512px"/>
-<img src="https://miro.medium.com/max/1078/0*Q0h3XrOdbXHtY2o8" width="512px"/>
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ASHBEENS) 
 
 
