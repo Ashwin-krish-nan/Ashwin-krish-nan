@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://ashwin-krish-nan.github.io/Ashwin-krish_nan.github.io/)
+[![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://ashwin-krish-nan.github.io)
 <h1 align="center">Hola amigo, I'm Ashwin 😊✌️</h1>
 <h2 align="center">💫 About Me </h2>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
